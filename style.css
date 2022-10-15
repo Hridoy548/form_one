@@ -6,7 +6,7 @@
 }
 .main_file {
     width: 660px;
-    padding: 30px 20px 20px;
+    padding: 20px 15px;
     border: solid 2px;
     margin: 16px;
     border-radius: 5px;
@@ -20,8 +20,8 @@
     width: 100px;
 }
 .image_taker {
-    width: 120px;
-    height: 150px;
+    width: 110px;
+    height: 135px;
     border: solid 1px;
 }
 .first_divider h2 {
@@ -35,7 +35,7 @@
 .main_attarction h1 {
     text-align: center;
     font-size: 45px;
-    padding: 30px;
+    padding: 10px;
     color: red;
 }
 .second_divider{
@@ -54,12 +54,12 @@
     width: 400px;
 }
 .second_divider p, .second_divider input {
-    padding: 5px 0;
-    margin-bottom: 10px;
+    padding: 4.5px 0;
+    margin-bottom: 8px;
 }
 .last_fire {
     font-weight: 600;
-    padding: 20px 0;
+    padding: 14px 0;
 }
 .for_sign {
     display: flex;
