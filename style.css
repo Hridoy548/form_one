@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Noto Sans Bengali', sans-serif;
+    box-sizing: border-box;
+}
+.main_file {
+    width: 660px;
+    padding: 30px 20px 20px;
+    border: solid 2px;
+    margin: 16px;
+    border-radius: 5px;
+    color: #000;
+}
+.first_divider {
+    display: flex;
+    justify-content: space-between;
+}
+.first_divider img {
+    width: 100px;
+}
+.image_taker {
+    width: 120px;
+    height: 150px;
+    border: solid 1px;
+}
+.first_divider h2 {
+    font-size: 41px;
+}
+.first_divider h3 {
+    margin-left: -50px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.main_attarction h1 {
+    text-align: center;
+    font-size: 45px;
+    padding: 30px;
+    color: red;
+}
+.second_divider{
+    display: flex;
+    align-items: center;
+}
+.second_divider div:nth-child(1) p {
+    font-weight: 600;
+    width: 170px;
+}
+.second_divider div:nth-child(2) p {
+    font-weight: 600;
+    margin-right: 42px;
+}
+.second_divider form input {
+    width: 400px;
+}
+.second_divider p, .second_divider input {
+    padding: 5px 0;
+    margin-bottom: 10px;
+}
+.last_fire {
+    font-weight: 600;
+    padding: 20px 0;
+}
+.for_sign {
+    display: flex;
+    justify-content: flex-end;
+}
+.for_sign p {
+    width: 150px;
+    text-align: center;
+    font-weight: 600;
+    border-top: solid 1px;
+    padding-top: 4px;
+    margin-top: 10px;
+    margin-right: 40px;
+}
+.former {
+    position: relative;
+}
+.former img {
+    position: absolute;
+    width: 40%;
+    top: 40%;
+    left: 30%;
+    opacity: 0.3;
+}
